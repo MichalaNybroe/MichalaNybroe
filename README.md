@@ -8,6 +8,10 @@
 
 I am looking for at part time job to further my programming skills and an 10-week internship for my next semester!
 [![Michala's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalaNybroe)](https://www.linkedin.com/in/michalanybroe)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalaNybroe)](https://www.linkedin.com/in/michalanybroe)
+
+
 <!--
 
 Here are some ideas to get you started:
