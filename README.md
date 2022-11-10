@@ -1,5 +1,6 @@
 ### Hi there, Michala here! 👋
 
+I am looking for an internship from 30-01-2023 to 12-04-2023 where I am extremely excited to further my programming skills!
 
 - 🌱 I’m currently learning NodeJS, Python and intro to IT-Security!
 - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/michalanybroe)
