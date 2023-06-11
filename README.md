@@ -1,8 +1,8 @@
 ### Hi there, Michala here! 👋
 
-I am excited to be starting at Lundbeck on 30-01-2023 to 12-04-2023 where I will work as part off their progess optimization team!
+I finish my degree June 2023 and am so overjoyed to transition to the next phase for me as a developer!
 
-- 🌱 I’m currently an intern at Lundbeck!
+- 🌱 I’m currently creating a microfrontend for Lundbeck!
 - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/michalanybroe)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I really LOVE dinosaurs - but they scare me SO much! 🦖
