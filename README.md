@@ -1,13 +1,12 @@
 ### Hi there, Michala here! 👋
 
-I finish my degree June 2023 and am so overjoyed to transition to the next phase for me as a developer!
+I am working as a Developer in Data and Analytics at H. Lundbeck A.S.
 
-- 👀 I am currently looking for a fulltime position as a fullstack developer
-- 🔭 I am currently creating a microfrontend as my final project for Lundbeck
-- 🌱 I’m currently learning React, Tailwind, TypeScript and building a microfrontend structure in AWS
+- 🔭 Getting to know C#, K8 and NextJS at work
+- 🌱 and exploring laravel on the side
 - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/michalanybroe)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I really LOVE dinosaurs - but they scare me SO much! 🦖
+- ⚡ Fun fact: I am learning chinese in Duolingo
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichalaNybroe&show_icons=true&locale=en&layout=compact" alt="MichalaNybroe" /></p>
 
