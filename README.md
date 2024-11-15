@@ -2,7 +2,7 @@
 
 I am working as a Developer in Data and Analytics at H. Lundbeck A.S.
 
-- 🔭 Getting to know C#, K8 and NextJS at work
+- 🔭 Working with C#, Razor, Keycloak, K8 and NextJS at work
 - 🌱 and exploring laravel on the side
 - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/michalanybroe)
 - 😄 Pronouns: She/Her
